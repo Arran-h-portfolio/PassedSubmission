@@ -17,3 +17,4 @@
       </section>    
       
 </div>
+<!-- Kept CSS Styling even though GitHub strips most CSS just to keep practicing my HTML AND CSS -->

@@ -1,10 +1,10 @@
 <h1>Palindrome Checker</h1>
-<div>
-      <p1>This is a small program. put together to solve a leet code challenge. It's main purpose was for study and to be able to go back and study the solution to a common given problem so that i could memorise the solution path as outlined below</p1>
+<div class="div-container">
+      <p1 class="paragraph">This is a small program. put together to solve a leet code challenge. It's main purpose was for study and to be able to go back and study the solution to a common given problem so that i could memorise the solution path as outlined below</p1>
 </div>
 
 <h2>Solution Path</h2>
-<div>
+<div class="div-container">
       <section>
       <ul>
           <li>Return false if x < 0, as negative numbers cannot be a palindrome</li>

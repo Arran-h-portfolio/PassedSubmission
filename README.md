@@ -3,7 +3,7 @@
       <p1 class="paragraph">This is a small program. put together to solve a leet code challenge. It's main purpose was for study and to be able to go back and study the solution to a common given problem so that i could memorise the solution path as outlined below</p1>
 </div>
 
-<h2>Solution Path</h2>
+<h2 style="color: green">Solution Path</h2>
 <div class="div-container">
       <section>
       <ul>

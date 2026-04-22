@@ -1,6 +1,6 @@
 <h1>Palindrome Checker</h1>
 <div class="div-container">
-      <p1 class="paragraph">This is a small program. put together to solve a leet code challenge. It's main purpose was for study and to be able to go back and study the solution to a common given problem so that i could memorise the solution path as outlined below</p1>
+      <p1 class="paragraph">This is a small program I put together to solve a leet code challenge. It's main purpose was to be able to go back and study the solution to a common given problem. In hopes that i could memorise the solution path as outlined below</p1>
 </div>
 
 <h2 style="color: green">Solution Path</h2>

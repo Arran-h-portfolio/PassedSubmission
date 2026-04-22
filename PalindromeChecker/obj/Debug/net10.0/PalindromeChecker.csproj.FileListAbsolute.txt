@@ -1,0 +1,14 @@
+/Users/arran/Desktop/LeetCodeChallenges/Palindrome Number/PassedSubmission/PalindromeChecker/obj/Debug/net10.0/PalindromeChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arran/Desktop/LeetCodeChallenges/Palindrome Number/PassedSubmission/PalindromeChecker/obj/Debug/net10.0/PalindromeChecker.AssemblyInfoInputs.cache
+/Users/arran/Desktop/LeetCodeChallenges/Palindrome Number/PassedSubmission/PalindromeChecker/obj/Debug/net10.0/PalindromeChecker.AssemblyInfo.cs
+/Users/arran/Desktop/LeetCodeChallenges/Palindrome Number/PassedSubmission/PalindromeChecker/obj/Debug/net10.0/PalindromeChecker.csproj.CoreCompileInputs.cache
+/Users/arran/Desktop/LeetCodeChallenges/Palindrome Number/PassedSubmission/PalindromeChecker/bin/Debug/net10.0/PalindromeChecker
+/Users/arran/Desktop/LeetCodeChallenges/Palindrome Number/PassedSubmission/PalindromeChecker/bin/Debug/net10.0/PalindromeChecker.deps.json
+/Users/arran/Desktop/LeetCodeChallenges/Palindrome Number/PassedSubmission/PalindromeChecker/bin/Debug/net10.0/PalindromeChecker.runtimeconfig.json
+/Users/arran/Desktop/LeetCodeChallenges/Palindrome Number/PassedSubmission/PalindromeChecker/bin/Debug/net10.0/PalindromeChecker.dll
+/Users/arran/Desktop/LeetCodeChallenges/Palindrome Number/PassedSubmission/PalindromeChecker/bin/Debug/net10.0/PalindromeChecker.pdb
+/Users/arran/Desktop/LeetCodeChallenges/Palindrome Number/PassedSubmission/PalindromeChecker/obj/Debug/net10.0/PalindromeChecker.dll
+/Users/arran/Desktop/LeetCodeChallenges/Palindrome Number/PassedSubmission/PalindromeChecker/obj/Debug/net10.0/refint/PalindromeChecker.dll
+/Users/arran/Desktop/LeetCodeChallenges/Palindrome Number/PassedSubmission/PalindromeChecker/obj/Debug/net10.0/PalindromeChecker.pdb
+/Users/arran/Desktop/LeetCodeChallenges/Palindrome Number/PassedSubmission/PalindromeChecker/obj/Debug/net10.0/PalindromeChecker.genruntimeconfig.cache
+/Users/arran/Desktop/LeetCodeChallenges/Palindrome Number/PassedSubmission/PalindromeChecker/obj/Debug/net10.0/ref/PalindromeChecker.dll

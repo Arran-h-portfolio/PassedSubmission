@@ -1,9 +1,13 @@
-.div {
+.div-container {
     background-color: #f0f0f0;
     padding: 20px;
     border-radius: 5px;
     font-family: Arial, sans-serif;
     color: #333;
+}
+.div-container :hover {
+    background-color: #e0e0e0;
+
 }
 .h1 {
     color: #007acc;
@@ -15,7 +19,7 @@
     font-size: 20px;
     margin-bottom: 8px;
 }
-.p {
+.paragraph {
     font-size: 16px;
     line-height: 1.5;
     margin-bottom: 10px;

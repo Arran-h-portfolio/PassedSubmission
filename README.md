@@ -7,7 +7,7 @@
 <div class="div-container">
       <section>
       <ul>
-          <li>Return false if x < 0, as negative numbers cannot be a palindrome</li>
+          <li>Return 'false' if x < 0, as negative numbers cannot be a palindrome</li>
           <li>Get original int as string (conversion)</li>
           <li>Convert that string into a char array</li>
           <li>Reverse that char array</li>
